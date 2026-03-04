@@ -1,7 +1,10 @@
 import './App.css';
+import ToggleText from './components/toggleText';
 
 function App() {
-  return <></>;
+  return <>
+    <ToggleText />
+  </>;
 }
 
 export default App;
